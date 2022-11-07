@@ -17,7 +17,7 @@ const server = express();
 // CONFIGURANDO O MUSTACHE
 
 server.set('view engine', 'mustache');
-server.set('views', path.join(__dirname, 'views'));
+server.set('views', path.join(__dirname, '../views'));
 server.engine('mustache', mustache());
 
 // CONFIGURANDO NOSSA PASTA DE ARQUIVOS ESTÁTICOS
