@@ -3,7 +3,7 @@ Project simulating a clothing ecommerce
 
 ### Pré requisitos globais:
 
-`npm i -g nodemon typscript ts-node`
+`npm i -g nodemon typescript ts-node`
 
 ### Instalação
 
